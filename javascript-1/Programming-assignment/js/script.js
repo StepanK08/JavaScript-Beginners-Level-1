@@ -1,0 +1,5 @@
+let username = prompt('Enter your username: ')
+let age = prompt('Enter your age: ')
+let carColor = prompt('Enter a color of your car: ')
+alert(`Hi ${username}, you are ${age} years old!`)
+alert('You have the ' + carColor + ' car!')
