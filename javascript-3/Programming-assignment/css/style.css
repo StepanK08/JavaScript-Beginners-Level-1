@@ -1,0 +1,10 @@
+.header__url-feature-form {
+    padding-bottom: 20px; 
+    margin-bottom: 20px; 
+    border-bottom: 1px solid black; 
+}
+
+.images-box > img {
+    height: 200px; 
+}
+
